@@ -6,7 +6,7 @@ https://hackaday.io/project/176201-monochromergb
 
 ![alt text](MonochromeRGB_Render.png "Render")
 
-Coworked with Gambaman, when integrating the VGA2SCART module: 
+Coworked with gambaman, when integrating the VGA2SCART module: 
 
 https://hackaday.io/project/165634-the-ultimate-vga-to-scart-adapter
 
